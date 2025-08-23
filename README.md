@@ -41,7 +41,7 @@ Bachelor Degree in the field of librarian science and art teaching, West-Hungary
 
 ## ✉️ Contact
 
-- **Email:** *ebdesign.graphics@gmail.com*
+- **Email:** *ebdesign.graphics@gmail.com & www.ebdesigntech.com*
 - **LinkedIn:** [https://hu.linkedin.com/in/ebdesign/hu](#)
 - **GitHub:** [github.com/EBDesignTech](https://github.com/EBDesignTech)
 
