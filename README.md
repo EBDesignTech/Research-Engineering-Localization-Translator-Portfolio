@@ -46,5 +46,7 @@ Bachelor Degree in the field of librarian science and art teaching, West-Hungary
 - **GitHub:** [github.com/EBDesignTech](https://github.com/EBDesignTech)
 
 ---
+*This project and its source code are the intellectual property of the author.
+*Unauthorized copying, reproduction, or redistribution of any part of this project is strictly prohibited without explicit written permission.
 
 *I am always looking for new challenges and opportunities to grow as a research engineer. Let’s connect!*
