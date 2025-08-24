@@ -1,6 +1,10 @@
 # Erzsébet Börcsök – Research Engineer Portfolio
 
-Welcome! I am Erzsébet Börcsök, a multidisciplinary professional with a passion for research, technology, and design. My career spans librarianship, freelance graphic design, data annotation, analysis, interviewing, and quality rating. Recently, I have worked as a user researcher, translator, and researcher, and I am eager to expand my skills in engineering and technical problem-solving.
+Welcome! I’m Erzsébet Börcsök, but you can call me Elizabeth. With nine years of experience as a librarian and over a decade since founding my 'EB Design' brand, I’ve developed a diverse skill set that inspired me to evolve my vision into EB Design&Tech.
+
+As a freelancer and sole proprietorship owner based in Hungary, I’ve embraced opportunities across graphic design, data annotation, data analysis, interviewing, ads quality rating, research, and localization translation. This broad experience has given me a unique perspective, blending creativity with technical expertise.
+
+Being independent allows me to continuously seek new challenges and opportunities for growth. I am always eager to expand my skills, tackle complex problems, and connect research with innovative solutions.
 
 ## 👩‍💻 About Me
 
